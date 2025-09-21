@@ -89,7 +89,7 @@ const questions = [
             {text: "Gurunath Sharma and Purnima Sharma",correct: true},
             {text: "Ramesh Sharma and Roshini Sharma",correct: false},
             {text: "Sumit Sharma and Rani Sharma",correct: false},
-            {text: "Prince Sharma and Bisut Sharma",correct: false}
+            {text: "Prince Singh and Bisut Singh",correct: false}
         ]
     },
 
